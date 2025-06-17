@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ismael.aristibutton.AristiButton-release-32:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ismael\\.gradle\\caches\\8.9\\transforms\\eb1d10f66fa5ecc4263ee7352db37db6\\transformed\\appcompat-1.7.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ismael.aristibutton.AristiButton-mergeReleaseResources-30:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ismael\\.gradle\\caches\\8.9\\transforms\\eb1d10f66fa5ecc4263ee7352db37db6\\transformed\\appcompat-1.7.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

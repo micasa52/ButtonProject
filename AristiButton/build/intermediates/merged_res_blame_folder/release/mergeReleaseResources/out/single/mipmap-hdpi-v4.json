@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/mipmap-hdpi-v4/ic_image_round.webp",
+        "source": "com.ismael.aristibutton.AristiButton-main-33:/mipmap-hdpi/ic_image_round.webp"
+    },
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/mipmap-hdpi-v4/ic_image.webp",
+        "source": "com.ismael.aristibutton.AristiButton-main-33:/mipmap-hdpi/ic_image.webp"
+    }
+]

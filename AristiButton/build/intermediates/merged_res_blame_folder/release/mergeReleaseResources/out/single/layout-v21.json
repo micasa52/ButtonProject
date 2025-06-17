@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.ismael.aristibutton.AristiButton-core-1.16.0-12:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.ismael.aristibutton.AristiButton-core-1.16.0-12:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/layout-v21/notification_action.xml",
+        "source": "com.ismael.aristibutton.AristiButton-core-1.16.0-12:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.ismael.aristibutton.AristiButton-core-1.16.0-12:/layout-v21/notification_template_icon_group.xml"
+    }
+]

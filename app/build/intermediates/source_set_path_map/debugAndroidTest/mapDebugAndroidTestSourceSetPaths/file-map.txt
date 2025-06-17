@@ -1,0 +1,5 @@
+com.ismael.buttonproject.test.app-core-1.6.1-0 C:\Users\Ismael\.gradle\caches\8.9\transforms\8f163f1556eb36eb643ac7137ad4a067\transformed\core-1.6.1\res
+com.ismael.buttonproject.test.app-androidTest-1 D:\Dropbox\COMPARTIR\PROYECTO\ANDROID\ButtonProject\app\build\generated\res\resValues\androidTest\debug
+com.ismael.buttonproject.test.app-mergeDebugAndroidTestResources-2 D:\Dropbox\COMPARTIR\PROYECTO\ANDROID\ButtonProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ismael.buttonproject.test.app-mergeDebugAndroidTestResources-3 D:\Dropbox\COMPARTIR\PROYECTO\ANDROID\ButtonProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ismael.buttonproject.test.app-debugAndroidTest-4 D:\Dropbox\COMPARTIR\PROYECTO\ANDROID\ButtonProject\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

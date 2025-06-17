@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ismael.aristibutton.AristiButton-release-32:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ismael\\.gradle\\caches\\8.9\\transforms\\a6b173c3ae2107d11f2908d1c2a23e7b\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ismael.aristibutton.AristiButton-mergeReleaseResources-30:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ismael\\.gradle\\caches\\8.9\\transforms\\a6b173c3ae2107d11f2908d1c2a23e7b\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

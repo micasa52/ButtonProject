@@ -1,0 +1,7 @@
+com.ismael.aristibutton
+drawable ic_image_background
+drawable ic_image_foreground
+id btnAristi
+layout component_btn_aristidevs
+mipmap ic_image
+mipmap ic_image_round

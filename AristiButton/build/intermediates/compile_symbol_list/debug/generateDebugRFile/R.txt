@@ -1,0 +1,6 @@
+int drawable ic_image_background 0x0
+int drawable ic_image_foreground 0x0
+int id btnAristi 0x0
+int layout component_btn_aristidevs 0x0
+int mipmap ic_image 0x0
+int mipmap ic_image_round 0x0

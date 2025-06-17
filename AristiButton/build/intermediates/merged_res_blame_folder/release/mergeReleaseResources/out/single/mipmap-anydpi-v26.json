@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/mipmap-anydpi-v26/ic_image.xml",
+        "source": "com.ismael.aristibutton.AristiButton-main-33:/mipmap-anydpi-v26/ic_image.xml"
+    },
+    {
+        "merged": "com.ismael.aristibutton.AristiButton-release-32:/mipmap-anydpi-v26/ic_image_round.xml",
+        "source": "com.ismael.aristibutton.AristiButton-main-33:/mipmap-anydpi-v26/ic_image_round.xml"
+    }
+]
